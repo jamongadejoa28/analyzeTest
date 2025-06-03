@@ -1,6 +1,0 @@
----
-description: 
-globs: 
-alwaysApply: true
----
-With the digital transformation of the financial industry, cardholder data is becoming increasingly important. Predicting credit card customer segments by analyzing various financial activity data of customers can help card companies with their marketing strategies and customer management. This competition aims to develop an AI algorithm that utilizes financial data to classify credit card customers into segments based on a period of time for each customer. You will design a model that predicts the segmentation of each customer based on a variety of data, such as credit information, authorized sales, billing, balance, channel, marketing, and performance. Develop an AI algorithm that can accurately classify credit card customer segments and contribute to providing personalized service to customers! [Topic] Develop an AI algorithm for credit card customer segmentation [Description] Develop an AI algorithm for credit card customer segmentation based on various data such as customer credit information, authorized sales, billing, balance, channel, marketing, and performance over a period of time.
